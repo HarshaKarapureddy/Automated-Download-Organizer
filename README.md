@@ -1,3 +1,6 @@
+#Latest Updates in the branch - V3
+The script can now organize every 60 seconds while running and will organize when it notices any changes. 
+
 #Latest Updates in the branch - V2
 The Script now uses dictionaries for a more efficient code. It also uses Exceptions now, in case any errors occur. There were also some minor 
 Changes with path linking, such as using the os.path.join() to create new file locations. Check the new branch for the updated code. 
